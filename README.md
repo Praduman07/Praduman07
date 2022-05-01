@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Praduman07
-- 👀 I’m interested in WebDevelopment
+- 👋 Hi, I’m Praduman Kashyap
+- 👀 I’m interested in Learning Technology
 - 🌱 I’m currently learning WebDevelopment
-- 📫 How to reach me Mail-pradhyumkashyap223@gmail.com
+- 📫 How to reach me pradhyumkashyap223@gmail.com
 
 <!---
 Praduman07/Praduman07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
